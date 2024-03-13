@@ -8053,7 +8053,7 @@ div.demo img {
   color: #9C9C9C;
 }
 .tp-feature-3-text-style {
-  padding-bottom: 190px;
+  padding-bottom: 50px;
 }
 @media (max-width: 575px) {
   .tp-feature-3-text-style {
@@ -8066,7 +8066,7 @@ div.demo img {
   font-size: 150px;
   line-height: 1;
   text-align: center;
-  color: transparent;
+  color: #000;
   text-transform: lowercase;
   background-image: url("../img/feature/home-3/text-img.jpg");
   -webkit-background-clip: text;
@@ -8079,7 +8079,7 @@ div.demo img {
   content: "";
   height: 3px;
   width: 54px;
-  background: var(--tp-theme-secondary);
+  background: rgba(255, 255, 255, 0);
   right: 23%;
   top: 55%;
 }
@@ -8103,7 +8103,7 @@ div.demo img {
   content: "";
   height: 3px;
   width: 54px;
-  background: var(--tp-theme-secondary);
+  background: rgba(255, 255, 255, 0);
   left: 23%;
   top: 55%;
 }
