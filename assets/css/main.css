@@ -3964,7 +3964,7 @@ div.demo img {
   content: "";
   height: 103px;
   width: 1px;
-  background: rgba(217, 217, 217, 0.18);
+  background: rgba(247, 244, 244, 0.18);
   right: -124px;
   top: -35px;
 }
@@ -12060,7 +12060,7 @@ div.demo img {
   transition: all 0.3s ease-in-out;
 }
 .tp-industry-tab-content {
-  margin-top: 40px;
+  margin-top: 50px;
 }
 @media (max-width: 575px) {
   .tp-industry-tab-content-inner {
